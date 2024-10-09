@@ -7,3 +7,5 @@
 - **目的** ユーザーのレビューを魅力的に提示し、ほかのユーザーに情報を提供すること
 - **使用技術** HTML, CSS
 - 
+https://roadmap.sh/projects/testimonial-cards
+
